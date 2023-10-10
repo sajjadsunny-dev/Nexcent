@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+   --themeColor: #4CAF4F;
+}
+
+::selection {
+   background: var(--themeColor);
+   color: #fff;
+}
