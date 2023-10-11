@@ -11,7 +11,7 @@ const Updates = () => {
 
                <div className="grid grid-cols-3 gap-6">
                   <div className="col-span-1 relative">
-                     <img className="rounded-lg" src="public/updates/image1.jpg" alt="image1.jpg" />
+                     <img className="rounded-lg" src="/updates/image1.jpg" alt="image1.jpg" />
 
                      <div className="p-4 bg-white rounded-lg w-fit absolute left-1/2 bottom-0 translate-x-[-50%] translate-y-[45%] shadow-customers">
                         <h5 className="font-inter text-xl text-titleText font-semibold text-center mb-4 w-[285px]">Creating Streamlined Safeguarding Processes with OneRen</h5>
@@ -20,7 +20,7 @@ const Updates = () => {
                   </div>
 
                   <div className="col-span-1 relative">
-                     <img className="rounded-lg" src="public/updates/image2.jpg" alt="image2.jpg" />
+                     <img className="rounded-lg" src="/updates/image2.jpg" alt="image2.jpg" />
 
                      <div className="p-4 bg-white rounded-lg w-fit absolute left-1/2 bottom-0 translate-x-[-50%] translate-y-[45%] shadow-customers">
                         <h5 className="font-inter text-xl text-titleText font-semibold text-center mb-4 w-[285px]">What are your safeguarding responsibilities and how can you manage them?</h5>
@@ -29,7 +29,7 @@ const Updates = () => {
                   </div>
 
                   <div className="col-span-1 relative">
-                     <img className="rounded-lg" src="public/updates/image3.jpg" alt="image3.jpg" />
+                     <img className="rounded-lg" src="/updates/image3.jpg" alt="image3.jpg" />
 
                      <div className="p-4 bg-white rounded-lg w-fit absolute left-1/2 bottom-0 translate-x-[-50%] translate-y-[45%] shadow-customers">
                         <h5 className="font-inter text-xl text-titleText font-semibold text-center mb-4 w-[285px]">Revamping the Membership Model with Triathlon Australia</h5>

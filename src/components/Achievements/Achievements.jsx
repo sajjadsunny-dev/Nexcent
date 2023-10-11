@@ -12,7 +12,7 @@ const Achievements = () => {
                <div className="w-[540px]">
                   <div className="flex gap-x-[30px] mb-[40px]">
                      <div className="w-1/2 flex items-center">
-                        <img src="public/clientIcons/icon3.png" alt="icon3.png" />
+                        <img src="/clientIcons/clientsCount.png" alt="clientsCount.png" />
                         <div className="ml-4">
                            <h6 className="font-inter text-[28px] font-bold text-titleText leading-[36px]">2,245,341</h6>
                            <p className="font-inter text-base text-paragraph">Members</p>
@@ -20,7 +20,7 @@ const Achievements = () => {
                      </div>
 
                      <div className="w-1/2 flex items-center">
-                        <img src="public/clientIcons/icon.png" alt="icon.png" />
+                        <img src="/clientIcons/clientsCount2.png" alt="clientsCount2.png" />
                         <div className="ml-4">
                            <h6 className="font-inter text-[28px] font-bold text-titleText leading-[36px]">46,328</h6>
                            <p className="font-inter text-base text-paragraph">Clubs</p>
@@ -29,7 +29,7 @@ const Achievements = () => {
                   </div>
                   <div className="flex gap-x-[30px]">
                      <div className="w-1/2 flex items-center">
-                        <img src="public/clientIcons/icon1.png" alt="icon.png" />
+                        <img src="/clientIcons/clientsCount3.png" alt="clientsCount3.png" />
                         <div className="ml-4">
                            <h6 className="font-inter text-[28px] font-bold text-titleText leading-[36px]">828,867</h6>
                            <p className="font-inter text-base text-paragraph">Event Bookings</p>
@@ -37,7 +37,7 @@ const Achievements = () => {
                      </div>
 
                      <div className="w-1/2 flex items-center">
-                        <img src="public/clientIcons/icon2.png" alt="icon2.png" />
+                        <img src="/clientIcons/clientsCount4.png" alt="clientsCount4.png" />
                         <div className="ml-4">
                            <h6 className="font-inter text-[28px] font-bold text-titleText leading-[36px]">1,926,436</h6>
                            <p className="font-inter text-base text-paragraph">Payments</p>

@@ -9,7 +9,7 @@ function Footer() {
          <section className="py-16 bg-[#263238]">
             <div className="max-w-customContainer mx-auto px-2.5 grid grid-cols-12 gap-6">
                <div className="col-span-3">
-                  <img src="public/footerLogo.png" alt="footerLogo.png" />
+                  <img src="/footerLogo.png" alt="footerLogo.png" />
                   <p className="font-inter text-sm text-[#F5F7FA] mt-10 mb-2">Copyright © 2020 Nexcent ltd.</p>
                   <p className="font-inter text-sm text-[#F5F7FA]">All rights reserved</p>
                   <div className="flex mt-10">

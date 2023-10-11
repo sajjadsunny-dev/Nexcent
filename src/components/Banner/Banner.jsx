@@ -13,7 +13,6 @@ const Banner = () => {
                   </div>
                   <div className="">
                      <img src="/bannerVector.png" alt="bannerVector.png" />
-                     <img src="/bannerVector.png" alt="bannerVector.png" />
                   </div>
                </div>
                <div className="absolute bottom-[20px] left-1/2 translate-x-[-50%] flex">

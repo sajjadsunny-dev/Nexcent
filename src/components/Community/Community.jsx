@@ -11,19 +11,19 @@ const Community = () => {
 
                <div className="flex justify-between items-center mt-4">
                   <div className="w-[300px] rounded-lg shadow-clientCards p-6">
-                     <img className="mx-auto" src="public/community/icon-2.png" alt="" />
+                     <img className="mx-auto" src="/community/community1.png" alt="community1.png" />
                      <h4 className="font-inter text-[28px] text-titleText font-bold leading-[36px] text-center mb-2 mt-4">Membership Organisations</h4>
                      <p className="font-inter text-sm text-paragraph text-center">Our membership management software provides full automation of membership renewals and payments</p>
                   </div>
 
                   <div className="w-[300px] rounded-lg shadow-clientCards p-6">
-                     <img className="mx-auto" src="public/community/icon-1.png" alt="" />
+                     <img className="mx-auto" src="/community/community2.png" alt="community2.png" />
                      <h4 className="font-inter text-[28px] text-titleText font-bold leading-[36px] text-center mb-2 mt-4">National Associations</h4>
                      <p className="font-inter text-sm text-paragraph text-center">Our membership management software provides full automation of membership renewals and payments</p>
                   </div>
 
                   <div className="w-[300px] rounded-lg shadow-clientCards p-6">
-                     <img className="mx-auto" src="public/community/icon.png" alt="" />
+                     <img className="mx-auto" src="/community/community3.png" alt="community3.png" />
                      <h4 className="font-inter text-[28px] text-titleText font-bold leading-[36px] text-center mb-2 mt-4 w-[80%] mx-auto">Clubs And Groups</h4>
                      <p className="font-inter text-sm text-paragraph text-center">Our membership management software provides full automation of membership renewals and payments</p>
                   </div>
