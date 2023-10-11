@@ -12,7 +12,8 @@ const Banner = () => {
                      <button className="font-inter text-base font-medium text-white py-3.5 px-8 bg-themeColor rounded duration-300 hover:bg-[#0A790D]">Register</button>
                   </div>
                   <div className="">
-                     <img src="public/bannerVector.png" alt="bannerVector.png" />
+                     <img src="/bannerVector.png" alt="bannerVector.png" />
+                     <img src="/bannerVector.png" alt="bannerVector.png" />
                   </div>
                </div>
                <div className="absolute bottom-[20px] left-1/2 translate-x-[-50%] flex">

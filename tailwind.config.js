@@ -13,9 +13,6 @@ export default {
         'titleText': '#4D4D4D',
         'paragraph': '#717171',
       },
-      backgroundImage: {
-        'bannerBg': "url('images/myBanner.jpg')",
-      },
       fontFamily: {
         'inter': ['Inter', 'sans-serif'],
       },
