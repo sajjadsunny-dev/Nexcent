@@ -24,6 +24,7 @@ export default {
       },
       boxShadow: {
         'clientCards': '0px 2px 4px 0px rgba(171, 190, 209, 0.20)',
+        'customers': '0px 8px 16px 0px rgba(171, 190, 209, 0.40)',
       }
     },
   },

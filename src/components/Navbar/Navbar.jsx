@@ -3,7 +3,7 @@
 const Navbar = () => {
    return (
       <>
-         <nav className="py-[22px] bg-background fixed w-full">
+         <nav className="py-[22px] bg-background fixed w-full z-50">
             <div className="max-w-customContainer mx-auto p-2.5 flex justify-between items-center">
                <a href="#">
                   <img src="public/Logo.png" alt="Logo" />
